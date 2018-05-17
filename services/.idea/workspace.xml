@@ -623,15 +623,16 @@
       <workItem from="1526114324043" duration="6788000" />
       <workItem from="1526490270118" duration="32000" />
       <workItem from="1526490318347" duration="8763000" />
-      <workItem from="1526578860040" duration="4222000" />
+      <workItem from="1526578860040" duration="4598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60230000" />
+    <option name="totallyTimeSpent" value="60606000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50201344" side_tool="true" visible="true" weight="0.45441595" />
